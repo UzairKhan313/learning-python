@@ -1,0 +1,5 @@
+This python world and this is way how we can read from file.
+this is a new line.Append operation taking place!
+First line 
+Second line 
+Third line
